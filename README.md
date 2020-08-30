@@ -12,7 +12,7 @@
 * [Gallery](gallery.md)
   * [Photo Uploads][phalbum]
 * Presents
-* [Cake][cake.md]
+* [Cake](cake.md)
 * [Sandy's Ecard][ecard]
 * Mingling
 
