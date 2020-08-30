@@ -4,3 +4,8 @@ description: "Welcome to Sandy's 57th Birthday Website"
 show_downloads: false
 github:
   is_project_page: false
+defaults:
+  - scope:
+      path: "images"
+    values:
+      image: true

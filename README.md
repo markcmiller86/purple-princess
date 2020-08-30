@@ -3,6 +3,7 @@
 ### Agenda
 
 * Greetings
+* [Gallery](gallery.md)
 * Games
   * Zoom In
   * [Type Race][typerace]
