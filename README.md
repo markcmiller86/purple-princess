@@ -7,13 +7,13 @@
   * Zoom In
   * [Type Race][typerace]
   * Kahoot (Get your phones out)
-  * [Virtual Gift Builds][vgifts]
+  * Virtual Gift Builds
 * Group Photo
 * [Gallery](gallery.md)
-  * [Photo Uploads][phalbum]
+  * Photo Uploads
 * Presents
 * [Cake](cake.md)
-* [Sandy's Ecard][ecard]
+* Sandy's Ecard
 * Mingling
 
 [billiards]: https://www.crazygames.com/game/8-ball-billiards-classic
