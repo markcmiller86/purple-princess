@@ -11,6 +11,8 @@
   * [Midnight Express][midnight-express] escape game
   * [Hogwarts Escape][hogwarts-escape]
   * [Moriarties Virtual Escape Room][moriarty]
+  * [Billiards][billiards]
+  * [Cards][cards]
 * Group Photo
 * [Gallery](gallery.md)
   * Photo Uploads
